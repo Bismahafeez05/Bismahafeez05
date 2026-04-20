@@ -74,9 +74,9 @@ bisma = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF&ring_color=00FFB2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bismahafeez05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF&ring_color=00FFB2"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismahafeez05&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF"/>
 
 </div>
 
@@ -84,7 +84,7 @@ bisma = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=FFFFFF&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bismahafeez05&theme=dark&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=FFFFFF&dates=888888)
 
 </div>
 
