@@ -40,7 +40,7 @@ bisma = {
 <br/>
 
 <!-- Skills -->
-### `> skills --list`
+### `> 🌱skills`
 
 <div align="center">
 
@@ -74,7 +74,7 @@ bisma = {
 <br/>
 
 <!-- GitHub Stats -->
-### `> github --stats`
+### `> 🌑 github stats`
 
 <div align="center">
 
@@ -99,7 +99,7 @@ bisma = {
 <br/>
 
 <!-- Cute but dark extra section -->
-### `> current_status.log`
+### `> current status⚡`
 
 <div align="center">
 
@@ -119,7 +119,7 @@ bisma = {
 <br/>
 
 <!-- Connect -->
-### `> connect --with-me`
+### `> 🌟connect with me🌟`
 
 <div align="center">
 
