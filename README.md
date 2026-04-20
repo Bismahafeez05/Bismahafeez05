@@ -1,44 +1,46 @@
+# 👋 Hi, I'm Bisma  
 
-# 👋 Hi, I'm Bisma
-
-🎓 Data Science Student  
-📊 Passionate about Machine Learning & Data Analysis  
-🐍 Python | Pandas | NumPy | Matplotlib  
+### 🚀 Data Science Student | Python Learner  
 
 ---
 
-## 🚀 My Projects
-
-### 📈 KSE-100 Stock Prediction
-- Predicted stock trends using Machine Learning
-- Performed EDA and visualization
-- Built prediction model using Python
+### 👩‍💻 About Me
+- 📊 Interested in Data Science & Machine Learning  
+- 🐍 Learning Python (Pandas, NumPy, Matplotlib)  
+- 🎯 Goal: Become a skilled Data Scientist  
 
 ---
 
-## 🛠️ Skills
-- Data Cleaning
-- Data Visualization
-- Machine Learning Basics
-- Python Programming
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 
 ---
 
-## 📊 Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+### 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
 
 ---
 
-## 📫 Contact Me
-- Email: bismahafeez101@gmail.com
+### 🌱 Currently Learning
+- Data Analysis  
+- Machine Learning Basics  
 
 ---
 
-⭐ *“Learning step by step and building real-world projects”*
+### 📫 Connect With Me
+- 📧 bismahafeez101@gmail.com
+
+---
+
+### ✨ Quote
+> “Small steps every day lead to big success”
 
 <!--
 **Bismahafeez05/Bismahafeez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
