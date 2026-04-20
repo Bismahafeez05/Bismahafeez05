@@ -13,9 +13,13 @@
 <br/>
 
 <!-- About Me -->
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5aaa480f4e1b5e8fd15a9c4a6a4c3b0d.gif" width="280" alt="coding gif"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</div>
 
-### `> ABOUT ME`
+### `> ABOUT ME 👩‍💻`
+
+
 
 ```python
 bisma = {
