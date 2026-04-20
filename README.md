@@ -13,7 +13,7 @@
 <br/>
 
 <!-- About Me -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5aaa480f4e1b5e8fd15a9c4a6a4c3b0d.gif" width="280" alt="coding gif"/>
 
 ### `> ABOUT ME`
 
@@ -119,9 +119,9 @@ bisma = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB2)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFB2)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB2)](https://linkedin.com/in/Bisma Hafeez)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB2)](mailto: bismahafeez101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFB2)](https://github.com/Bismahafeez05)
 
 <br/>
 
