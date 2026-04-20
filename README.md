@@ -21,13 +21,13 @@
 
 
 
-```python
+```json
 bisma = {
-    "role"      : "Data Science Student & AI Enthusiast",
-    "passion"   : ["Machine Learning", "Data Analysis", "Pattern Recognition"],
-    "tools"     : ["Python", "Pandas", "Scikit-learn", "Google Colab"],
-    "currently" : "Training models & exploring the unknown 🔍",
-    "motto"     : "Data doesn't lie. People do."
+  "role": "Data Scientist",
+  "passion": ["Machine Learning", "Data Analysis"],
+  "tools": ["Python", "NumPy", "Pandas", "Scikit-learn", "Matplotlib"],
+  "currently": "Training in Data Science",
+  "motto": "Data doesn't lie 📊"
 }
 ```
 
